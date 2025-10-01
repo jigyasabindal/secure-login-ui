@@ -8,8 +8,8 @@ A modern, responsive login page with:
 - Success modal animation
 
 ## 🚀 Live Demo
-You can host this page on GitHub Pages to see it live:
-[Live Demo Link](https://jigyasabindal.github.io/secure-login-ui/)
+You can host this page on GitHub Pages to see it live:  
+[Live Demo Link](https://jigyasabindal.github.io/secure-login-ui/login.html)
 
 ## 💻 How to Use
 1. Clone the repo:
